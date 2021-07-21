@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  temperature_varitaion.c.cpp
+E:\project work\my trial programs\Indian_atmosphere_algoritham\temperature_varitaion.c\temperature_varitaion.c.cpp(27,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\project work\my trial programs\Indian_atmosphere_algoritham\temperature_varitaion.c\temperature_varitaion.c.cpp(23,68): warning C4101: 'pressure6': unreferenced local variable
+E:\project work\my trial programs\Indian_atmosphere_algoritham\temperature_varitaion.c\temperature_varitaion.c.cpp(24,94): warning C4101: 'density7': unreferenced local variable
+E:\project work\my trial programs\Indian_atmosphere_algoritham\temperature_varitaion.c\temperature_varitaion.c.cpp(25,24): warning C4101: 'P': unreferenced local variable
+E:\project work\my trial programs\Indian_atmosphere_algoritham\temperature_varitaion.c\temperature_varitaion.c.cpp(24,84): warning C4101: 'density6': unreferenced local variable
+E:\project work\my trial programs\Indian_atmosphere_algoritham\temperature_varitaion.c\temperature_varitaion.c.cpp(23,78): warning C4101: 'pressure7': unreferenced local variable
+  temperature_varitaion.c.vcxproj -> E:\project work\my trial programs\Indian_atmosphere_algoritham\Debug\temperature_varitaion.c.exe

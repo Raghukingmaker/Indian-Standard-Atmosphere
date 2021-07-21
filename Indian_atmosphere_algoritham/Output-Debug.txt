@@ -1,0 +1,8 @@
+﻿'temperature_varitaion.c.exe': Loaded 'I:\Raghavendra\my trial programs\temperature_varitaion.c\Debug\temperature_varitaion.c.exe', Symbols loaded.
+'temperature_varitaion.c.exe': Loaded 'C:\Windows\SysWOW64\ntdll.dll', Cannot find or open the PDB file
+'temperature_varitaion.c.exe': Loaded 'C:\Windows\SysWOW64\kernel32.dll', Cannot find or open the PDB file
+'temperature_varitaion.c.exe': Loaded 'C:\Windows\SysWOW64\KernelBase.dll', Cannot find or open the PDB file
+'temperature_varitaion.c.exe': Loaded 'C:\Windows\SysWOW64\msvcr100d.dll', Symbols loaded.
+The thread 'Win32 Thread' (0x1940) has exited with code 0 (0x0).
+The thread 'Win32 Thread' (0x126c) has exited with code 0 (0x0).
+The program '[760] temperature_varitaion.c.exe: Native' has exited with code 0 (0x0).
